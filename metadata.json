@@ -1,0 +1,8 @@
+{
+  "name": "Serverless StoryWeaver",
+  "description": "An AI-powered interactive storytelling application where users co-write stories with Gemini. At each step, choose from multiple AI-generated plot directions to create a unique, branching narrative. Features multimodal input and a visual story arc.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
